@@ -1,4 +1,4 @@
-Chat App Built using a React client, node.js server - powered by GraphqlYoga.
+Chat App Built using a React client, and a GraphqlYoga powered server.
 
 GraphQLYoga simplifies the normally tricky GraphQL backend set up, and utilizes GQL 'Subscriptions' in order to maintain a flow of messages in the chat room, removing the need to make constant Queries.
 
